@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teeny2
+- 👋 Hi, I’m @ tnbyrs 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...anything that will be beneficial to the coding world
